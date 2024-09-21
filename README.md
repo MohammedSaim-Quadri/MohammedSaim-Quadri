@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedsaim-quadri&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsaim-quadri" /> </p>
 
-- 🔭 I’m currently working on [AI Chess Engine using TensorFlow](https://github.com/MohammedSaim-Quadri/AIChessTF)
+- 🔭 I’m currently working on [Intrusion Detection System with AI]
 
-- 🌱 I’m currently learning **Django,ML/DL,TensorFlow, Transformer Models, LLMs, RAGs**
+- 🌱 I’m currently learning **ML/DL/NLP,TensorFlow, Transformer Models, LLMs, RAGs**
 
-- 👯 I'm eager to collaborate on projects involving **AI/ML development, backend engineering, or frontend development**
+- 👯 I'm eager to collaborate on projects involving **AI/ML development, backend engineering**
 
 - 🤝 I’m looking for help with [Refining the AI models for scalability and performance, and enhancing frontend user experiences](https://github.com/MohammedSaim-Quadri/Mental-Health-Chatbot)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mohammedsaimquadri@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1A5WWa725BzPNXb9us8H2Kj-lpRCeWIGd/view?usp=sharing](https://drive.google.com/file/d/1A5WWa725BzPNXb9us8H2Kj-lpRCeWIGd/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eDDwo8uZ_A2zUGcgae7KVr7yerpdKPBT/view?usp=sharing)
 
 - ⚡ Fun fact **In addition to coding, I love experimenting in the kitchen. Much like debugging code, cooking allows me to mix ingredients, tweak recipes, and create something delicious from scratch!**
 
