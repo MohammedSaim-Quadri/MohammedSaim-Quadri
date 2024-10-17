@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedsaim-quadri&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsaim-quadri" /> </p>
 
-- 🔭 I’m currently working on [Intrusion Detection System with AI]
+- 🔭 I’m currently working on [Intrusion Detection System with AI](https://github.com/MohammedSaim-Quadri/Intrusion-Detection-System)
 
 - 🌱 I’m currently learning **ML/DL/NLP,TensorFlow, Transformer Models, LLMs, RAGs**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mohammedsaimquadri@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eDDwo8uZ_A2zUGcgae7KVr7yerpdKPBT/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Q6Y4--f037vHEVBfi_J2o6A8vtQejzkC/view?usp=sharing)
 
 - ⚡ Fun fact **In addition to coding, I love experimenting in the kitchen. Much like debugging code, cooking allows me to mix ingredients, tweak recipes, and create something delicious from scratch!**
 
