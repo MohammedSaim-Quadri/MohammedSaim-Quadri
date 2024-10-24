@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedsaim-quadri&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsaim-quadri" /> </p>
 
-- 🔭 I’m currently working on [Intrusion Detection System with AI](https://github.com/MohammedSaim-Quadri/Intrusion-Detection-System)
+- 🔭 I’m currently working on [Intrusion Detection System with AI](https://github.com/MohammedSaim-Quadri/Intrusion_Detection-System)
 
 - 🌱 I’m currently learning **ML/DL/NLP,TensorFlow, Transformer Models, LLMs, RAGs**
 
