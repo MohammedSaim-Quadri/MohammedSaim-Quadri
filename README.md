@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mohammedsaimquadri@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Q6Y4--f037vHEVBfi_J2o6A8vtQejzkC/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RXHTbg0TvcWzWuAT8ZTC00xJxTWJjg2q/view?usp=sharing)
 
 - ⚡ Fun fact **In addition to coding, I love experimenting in the kitchen. Much like debugging code, cooking allows me to mix ingredients, tweak recipes, and create something delicious from scratch!**
 
