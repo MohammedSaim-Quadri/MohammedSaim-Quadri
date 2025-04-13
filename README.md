@@ -11,7 +11,7 @@
 
 - 👯 I'm eager to collaborate on projects involving **Machine Learning, Deep Learning, NLP, cybersecurity, and real-world AI applications in domains like healthcare.**
 
-- 🤝 I’m looking for help with **contributing to open-source ML projects, refining real-time AI solutions (especially in cybersecurity and healthcare), and navigating advanced deep learning topics.**
+- 🤝 I’m looking for help with **contributing to open-source ML projects, building and refining real-time AI solutions (especially in cybersecurity and healthcare), and navigating advanced deep learning topics.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohammedSaim-Quadri](https://github.com/MohammedSaim-Quadri)
 
