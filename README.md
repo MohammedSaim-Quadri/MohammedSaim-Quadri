@@ -23,6 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Polynomial Regression: Understanding the Curve in Your Data &lpar;Mathematical Intuition&rpar;](https://medium.com/@mohammedsaimquadri/polynomial-regression-understanding-the-curve-in-your-data-mathematical-intuition-d1a252bbac94?source=rss-5aad7f3f4f6a------2)
 - [Understanding the Math Behind Linear Regression: From Gradient Descent to OLS](https://medium.com/@mohammedsaimquadri/understanding-the-math-behind-linear-regression-from-gradient-descent-to-ols-7d215de5204b?source=rss-5aad7f3f4f6a------2)
 - [Understanding Simple Linear Regression: An Introduction](https://medium.com/@mohammedsaimquadri/understanding-simple-linear-regression-an-introduction-b2b4f7ba3d20?source=rss-5aad7f3f4f6a------2)
 <!-- BLOG-POST-LIST:END -->
