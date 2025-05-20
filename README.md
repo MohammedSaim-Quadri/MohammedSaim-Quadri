@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Naive Bayes: A Powerful Probabilistic Classifier Explained](https://medium.com/@mohammedsaimquadri/naive-bayes-a-powerful-probabilistic-classifier-explained-5ef090673eca?source=rss-5aad7f3f4f6a------2)
 - [Understanding Support Vector Machines &lpar;SVM&rpar; — A Deep Dive](https://medium.com/@mohammedsaimquadri/understanding-support-vector-machines-svm-a-deep-dive-f776e4c50f0a?source=rss-5aad7f3f4f6a------2)
 - [Logistic Regression in Machine Learning: From Hypothesis to Evaluation Metrics](https://medium.com/@mohammedsaimquadri/logistic-regression-in-machine-learning-from-hypothesis-to-evaluation-metrics-b52631aab47c?source=rss-5aad7f3f4f6a------2)
 - [Cross Validation in ML: Types, Tradeoffs &amp; When to Use Each](https://medium.com/@mohammedsaimquadri/cross-validation-in-ml-types-tradeoffs-when-to-use-each-2b41f3611c41?source=rss-5aad7f3f4f6a------2)
-- [Mastering Regularization in Linear Regression: L1, L2 &amp; Elastic Net](https://medium.com/@mohammedsaimquadri/mastering-regularization-in-linear-regression-l1-l2-elastic-net-e6ed2aea2b3b?source=rss-5aad7f3f4f6a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me:</h3>
