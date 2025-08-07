@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying Decision Trees: From Concepts to Splits](https://medium.com/@mohammedsaimquadri/demystifying-decision-trees-from-concepts-to-splits-2bb58b0f2146?source=rss-5aad7f3f4f6a------2)
 - [Intrusion Detection System &lpar;Part 2&rpar;: Deep Learning with CNN + LSTM for Sequential Flow Analysis](https://medium.com/@mohammedsaimquadri/intrusion-detection-system-part-2-deep-learning-with-cnn-lstm-for-sequential-flow-analysis-3116e6f1de3b?source=rss-5aad7f3f4f6a------2)
 - [How We Built an End-to-End XGBoost-Based Intrusion Detection System Using the CICIDS2018 Dataset](https://medium.com/@mohammedsaimquadri/how-we-built-an-end-to-end-xgboost-based-intrusion-detection-system-using-the-cicids2018-dataset-187fa4e01f55?source=rss-5aad7f3f4f6a------2)
 - [Understanding the K-Nearest Neighbors Algorithm: Simple, Powerful, and Intuitive](https://medium.com/@mohammedsaimquadri/understanding-the-k-nearest-neighbors-algorithm-simple-powerful-and-intuitive-5b59681c0294?source=rss-5aad7f3f4f6a------2)
-- [Naive Bayes: A Powerful Probabilistic Classifier Explained](https://medium.com/@mohammedsaimquadri/naive-bayes-a-powerful-probabilistic-classifier-explained-5ef090673eca?source=rss-5aad7f3f4f6a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me:</h3>
