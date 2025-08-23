@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mohammedsaimquadri@gmail.com | https://www.linkedin.com/in/msaquadri**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OYb5oqLKi6xqLhFIIwwNiGiubG6wITlc/view?usp=drive_link](https://drive.google.com/file/d/1OYb5oqLKi6xqLhFIIwwNiGiubG6wITlc/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1eBuIqQYFC8CszJJv9RmVKUc32FVpF3omZ9LKsZ6A9lM/edit?usp=sharing)
 
 - ⚡ Fun fact **I enjoy breaking down complex AI topics into simple explanations—sometimes I learn best by teaching!**
 
