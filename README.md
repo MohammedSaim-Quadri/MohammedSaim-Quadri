@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to Unsupervised Learning](https://medium.com/@mohammedsaimquadri/an-introduction-to-unsupervised-learning-355dfbf6c519?source=rss-5aad7f3f4f6a------2)
 - [XGBoost: Taking Gradient Boosting to an Extreme Level](https://medium.com/@mohammedsaimquadri/xgboost-taking-gradient-boosting-to-an-extreme-level-7266c4b65235?source=rss-5aad7f3f4f6a------2)
 - [Gradient Boosting: The Art of Correcting Errors](https://medium.com/@mohammedsaimquadri/gradient-boosting-the-art-of-correcting-errors-5287f6e77946?source=rss-5aad7f3f4f6a------2)
 - [AdaBoost: Learning from Mistakes, One Stump at a Time](https://medium.com/@mohammedsaimquadri/adaboost-learning-from-mistakes-one-stump-at-a-time-ac872015f715?source=rss-5aad7f3f4f6a------2)
-- [Random Forest: The Power of Many Trees](https://medium.com/@mohammedsaimquadri/random-forest-the-power-of-many-trees-4a619f3928b7?source=rss-5aad7f3f4f6a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me:</h3>
