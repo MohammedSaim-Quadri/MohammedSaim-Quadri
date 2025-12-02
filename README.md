@@ -2,37 +2,45 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi!👋%20I'm%20Mohammed%20Saim%20Ahmed%20Quadri&animation=fadeIn&type=speech&color=timeGradient&fontSize=40" />
 </p>
 
+<h3 align="center">
+  Master's Student in CS @ NJIT | ML Engineer | NLP & Backend Specialist
+</h3>
 
-<h3 align="center">Welcome to my GitHub profile! I'm a dedicated Computer Science engineer specializing in AI and backend development, with a keen interest in frontend technologies. With hands-on experience in crafting advanced AI models and developing robust backend systems, complemented by proficiency in frontend technologies from project work, I'm committed to driving innovation and delivering high-quality solutions. Let's connect and create something extraordinary together!</h3>
+<p align="center">
+  I am a Master's student in Computer Science at <b>New Jersey Institute of Technology (NJIT)</b>, specializing in <b>Natural Language Processing, Generative AI, and Scalable System Design</b>. Bridging the gap between research and production, I have experience architecting full-stack <b>RAG-based search engines</b>, optimizing <b>LLM pipelines</b>, and deploying containerized microservices. My passion lies in building robust AI systems that solve real-world problems in recruitment, healthcare, and security.
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohammedsaim-quadri&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsaim-quadri" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=mohammedsaim-quadri&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsaim-quadri" /> 
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedsaim-quadri" alt="mohammedsaim-quadri" /></a> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mohammedsaim-quadri" alt="mohammedsaim-quadri" />
+  </a> 
+</p>
 
-- 🔭 I’m currently working on **deepening my understanding of modern deep learning architectures (including Transformers), writing a blog series on the mathematical intuition behind core Machine Learning concepts, and exploring real-world AI/ML applications in cybersecurity and healthcare.**
+- 🔭 I’m currently building **[ScoutIQ](https://github.com/MohammedSaim-Quadri/scoutiq), an AI-powered recruitment intelligence platform leveraging Llama-3, Vector Search (Qdrant), and RAG pipelines.**
 
-- 🌱 I’m currently learning **advanced concepts in Deep Learning and NLP, along with MLOps practices for building and deploying scalable AI systems.**
+- 🌱 I’m currently mastering **Advanced Retrieval-Augmented Generation (RAG) techniques, Kubernetes orchestration for ML workflows, and Agentic AI patterns.**
 
-- 👯 I'm eager to collaborate on projects involving **Machine Learning, Deep Learning, NLP, cybersecurity, and real-world AI applications in domains like healthcare.**
+- 👯 I'm eager to collaborate on projects involving **Large Language Models (LLMs), Semantic Search, MLOps, and scalable backend architectures.**
 
-- 🤝 I’m looking for help with **contributing to open-source ML projects, building and refining real-time AI solutions (especially in cybersecurity and healthcare), and navigating advanced deep learning topics.**
+- 🤝 I’m open to discussions on **optimizing vector retrieval, fine-tuning open-source LLMs, and securing AI supply chains.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohammedSaim-Quadri](https://github.com/MohammedSaim-Quadri)
 
-- 📫 How to reach me **mohammedsaimquadri@gmail.com | https://www.linkedin.com/in/msaquadri**
+- 📫 How to reach me: **mohammedsaimquadri@gmail.com | [LinkedIn](https://www.linkedin.com/in/msaquadri)**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1eBuIqQYFC8CszJJv9RmVKUc32FVpF3omZ9LKsZ6A9lM/edit?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1j7akhQ3_4_9YmaaH07mu_HE_KtA-WWpz/view?usp=sharing)
 
-- ⚡ Fun fact **I enjoy breaking down complex AI topics into simple explanations—sometimes I learn best by teaching!**
+- ⚡ Fun fact: **I enjoy breaking down complex AI topics into simple explanations—sometimes I learn best by teaching!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+### ✍️ Blog Posts
 - [K-Means Clustering: The Art of Finding Your Tribe](https://medium.com/@mohammedsaimquadri/k-means-clustering-the-art-of-finding-your-tribe-5d2cc0c82064?source=rss-5aad7f3f4f6a------2)
 - [PCA: How to Summarize a Dataset with Math](https://medium.com/@mohammedsaimquadri/pca-how-to-summarize-a-dataset-with-math-1a9fde58d8da?source=rss-5aad7f3f4f6a------2)
 - [An Introduction to Unsupervised Learning](https://medium.com/@mohammedsaimquadri/an-introduction-to-unsupervised-learning-355dfbf6c519?source=rss-5aad7f3f4f6a------2)
 - [XGBoost: Taking Gradient Boosting to an Extreme Level](https://medium.com/@mohammedsaimquadri/xgboost-taking-gradient-boosting-to-an-extreme-level-7266c4b65235?source=rss-5aad7f3f4f6a------2)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/msaquadri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msaquadri" height="50" width="50" /></a>
@@ -42,7 +50,31 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a> </p>
+<p align="center"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a> 
+  
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/> </a> 
+  
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50"/> </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/> </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> </a> 
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="50" height="50"/> </a>
+
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a> 
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/> </a> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedsaim-quadri&show_icons=true&locale=en&layout=compact" alt="mohammedsaim-quadri" /></p>
 
