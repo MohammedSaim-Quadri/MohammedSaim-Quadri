@@ -43,6 +43,7 @@
 
 - ⚡ Fun fact: **I enjoy breaking down complex AI topics into simple explanations—sometimes I learn best by teaching!**
 
+---------------------------------------------------------------
 ### ✍️ Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [The Vanishing Gradient Problem: Why Deep Networks Forget How to Learn](https://medium.com/@mohammedsaimquadri/the-vanishing-gradient-problem-why-deep-networks-forget-how-to-learn-6d047ca784e0?source=rss-5aad7f3f4f6a------2)
@@ -53,6 +54,7 @@
 - [Silhouette Analysis: How to Grade Your Clusters](https://medium.com/@mohammedsaimquadri/silhouette-analysis-how-to-grade-your-clusters-018c634e6def?source=rss-5aad7f3f4f6a------2)
 <!-- BLOG-POST-LIST:END -->
 
+----------------------------------------------------------
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/msaquadri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msaquadri" height="50" width="50" /></a>
@@ -61,6 +63,7 @@
 <a href="https://www.hackerrank.com/mohammedsaim1211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohammedsaim1211" height="50" width="50" /></a>
 </p>
 
+---------------------------------------------------------
 ### 🛠️ Tech Stack & Tools
 
 <b>Programming Languages</b><br>
@@ -96,7 +99,7 @@
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedsaim-quadri&show_icons=true&locale=en&layout=compact" alt="mohammedsaim-quadri" /></p>
-
+----------------------------------------------
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedsaim-quadri&show_icons=true&locale=en" alt="mohammedsaim-quadri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedsaim-quadri&" alt="mohammedsaim-quadri" /></p>
