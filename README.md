@@ -35,7 +35,9 @@
 - ⚡ Fun fact: **I enjoy breaking down complex AI topics into simple explanations—sometimes I learn best by teaching!**
 
 ### ✍️ Blog Posts
+<!-- BLOG-POST-LIST:START -->
 
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
