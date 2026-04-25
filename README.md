@@ -36,7 +36,12 @@
 
 ### ✍️ Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [The Vanishing Gradient Problem: Why Deep Networks Forget How to Learn](https://medium.com/@mohammedsaimquadri/the-vanishing-gradient-problem-why-deep-networks-forget-how-to-learn-6d047ca784e0?source=rss-5aad7f3f4f6a------2)
+- [The Math of Learning: Backpropagation and the Chain Rule](https://medium.com/@mohammedsaimquadri/the-math-of-learning-backpropagation-and-the-chain-rule-cb8345989315?source=rss-5aad7f3f4f6a------2)
+- [Breaking the Line: Enter the Multi-Layer Perceptron &lpar;ANN&rpar;](https://medium.com/@mohammedsaimquadri/breaking-the-line-enter-the-multi-layer-perceptron-ann-40dab1baba75?source=rss-5aad7f3f4f6a------2)
+- [The Dawn of Deep Learning: From Biological Brains to Artificial Neurons](https://medium.com/@mohammedsaimquadri/the-dawn-of-deep-learning-from-biological-brains-to-artificial-neurons-dd822447a3d1?source=rss-5aad7f3f4f6a------2)
+- [Anomaly Detection: Finding the Needle](https://medium.com/@mohammedsaimquadri/anomaly-detection-finding-the-needle-b95aa774402a?source=rss-5aad7f3f4f6a------2)
+- [Silhouette Analysis: How to Grade Your Clusters](https://medium.com/@mohammedsaimquadri/silhouette-analysis-how-to-grade-your-clusters-018c634e6def?source=rss-5aad7f3f4f6a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me:</h3>
