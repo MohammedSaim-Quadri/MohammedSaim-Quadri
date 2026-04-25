@@ -27,7 +27,7 @@
 - Developed an Agentic RAG-based search engine and recruitment intelligence platform.
 - Optimized LLM pipelines and vector retrieval for high-accuracy semantic search.
 
-
+------------------------------------------
 
 - 🔭 I’m currently building **[ScoutIQ](https://github.com/MohammedSaim-Quadri/scoutiq), an AI-powered recruitment intelligence platform leveraging Llama-3, Vector Search (Qdrant), and RAG pipelines.**
 
