@@ -10,11 +10,7 @@
   I am a Master's student in Computer Science at <b>New Jersey Institute of Technology (NJIT)</b>, specializing in <b>Natural Language Processing, Generative AI, and Scalable System Design</b>. Bridging the gap between research and production, I have experience architecting full-stack <b>RAG-based search engines</b>, optimizing <b>LLM pipelines</b>, and deploying containerized microservices. My passion lies in building robust AI systems that solve real-world problems in recruitment, healthcare, and security.
 </p>
 
-<p align="center">
-  <a href="(https://drive.google.com/file/d/1DyhOoQ80mxb1XxZbQzA5XPuRUZW77I4D/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/-📄%20View%20My%20Resume-0e75b6?style=for-the-badge&logoColor=white" alt="View Resume"/>
-  </a>
-</p>
+<p align="center"><a href="https://drive.google.com/file/d/1DyhOoQ80mxb1XxZbQzA5XPuRUZW77I4D/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-📄%20View%20My%20Resume-0e75b6?style=for-the-badge&logoColor=white" alt="View Resume"/></a></p>
 
 ### 🚀 Featured Work & Research
 
