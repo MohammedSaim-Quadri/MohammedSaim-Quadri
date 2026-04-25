@@ -27,15 +27,7 @@
 - Developed an Agentic RAG-based search engine and recruitment intelligence platform.
 - Optimized LLM pipelines and vector retrieval for high-accuracy semantic search.
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mohammedsaim-quadri&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsaim-quadri" /> 
-</p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohammedsaim-quadri" alt="mohammedsaim-quadri" />
-  </a> 
-</p>
 
 - 🔭 I’m currently building **[ScoutIQ](https://github.com/MohammedSaim-Quadri/scoutiq), an AI-powered recruitment intelligence platform leveraging Llama-3, Vector Search (Qdrant), and RAG pipelines.**
 
