@@ -14,14 +14,14 @@
 
 ### 🚀 Featured Work & Research
 
-**[Medi-Gemma CDSS](https://github.com/MohammedSaim-Quadri/MediGemma)** | *PyTorch, LlamaIndex, LLaVA, Gemma 2/3,MedGemma, Hulu-Med, Streamlit*
-- **Multimodal CDSS Architecture:** Engineered a Clinical Decision Support System combining a fine-tuned Vision-Language Model (LLaVA-Medical-Director) with an Agentic RAG pipeline to analyze wound pathology.
-- **Deterministic Safety Layer:** Built a protocol manager to map AI diagnoses directly to evidence-based clinical guidelines, actively preventing LLM hallucinations in patient triage.
-- **Advanced Clinical Benchmarking:** Developed a rigorous LLM-as-Judge evaluation pipeline testing foundation models against a strict 7-dimension clinical safety rubric across 63 patient records.
-- **Key Performance & Ablation Results:**
-  - **MedGemma-1.5 (4B):** Achieved a **63/63 benchmark pass rate** and lightning-fast load times (6.5s) utilizing targeted fine-tuning and anti-refusal prompt alignment.
-  - **MedGemma (27B) & Gemma 3:** Validated at **0 CRITICAL_FAILs**, establishing them as the strongest stability and safety gates for clinical deployment.
-  - **Hulu-Med (32B):** Reduced `MISSED_EMERGENCY` triage failures from 3 down to 1 by optimizing step-by-step thinking profiles and structured outputs.
+**[Medi-Gemma CDSS](https://github.com/MohammedSaim-Quadri/MediGemma)** | *PyTorch, LlamaIndex, LLaVA, Gemma 3, MedGemma, Hulu-Med, Streamlit*
+- **Multimodal CDSS Architecture**: Engineered a Clinical Decision Support System combining a fine-tuned Vision-Language Model (LLaVA-Medical-Director) with an Agentic RAG pipeline to analyze wound pathology from clinical images and patient EMR data.
+- **Deterministic Safety Layer**: Built a keyword-driven **ProtocolManager** that maps VLM diagnoses to a tiered clinical protocol hierarchy, grounding treatment recommendations in auditable rules and preventing LLM hallucinations from reaching the triage stage.
+- **Advanced Clinical Benchmarking**: Developed a rigorous LLM-as-Judge evaluation pipeline (judged by Claude Opus 4.6) testing foundation models against a 9-question benchmark and a strict 7-dimension clinical safety rubric across 63 patient records.
+- **Key Performance & Ablation Results**:
+  - MedGemma-1.5 (4B): Achieved a 63/63 benchmark pass rate with a 6.5s load time, using targeted anti-refusal prompt alignment (clinician_v3_mg4b).
+  - MedGemma (27B) & Gemma 3: Validated at 0 CRITICAL_FAILs, establishing them as the strongest stability and safety baselines for clinical deployment.
+  - Hulu-Med (32B): Reduced MISSED_EMERGENCY triage failures from 3 to 1 by enabling step-by-step thinking decoding (use_think: true).
 
 **[ScoutIQ](https://github.com/MohammedSaim-Quadri/ScoutIQ)** | *Llama-3, Qdrant, FastAPI, Python*
 - Developed an Agentic RAG-based search engine and recruitment intelligence platform.
