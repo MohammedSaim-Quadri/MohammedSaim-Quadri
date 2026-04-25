@@ -35,10 +35,8 @@
 - ⚡ Fun fact: **I enjoy breaking down complex AI topics into simple explanations—sometimes I learn best by teaching!**
 
 ### ✍️ Blog Posts
-- [K-Means Clustering: The Art of Finding Your Tribe](https://medium.com/@mohammedsaimquadri/k-means-clustering-the-art-of-finding-your-tribe-5d2cc0c82064?source=rss-5aad7f3f4f6a------2)
-- [PCA: How to Summarize a Dataset with Math](https://medium.com/@mohammedsaimquadri/pca-how-to-summarize-a-dataset-with-math-1a9fde58d8da?source=rss-5aad7f3f4f6a------2)
-- [An Introduction to Unsupervised Learning](https://medium.com/@mohammedsaimquadri/an-introduction-to-unsupervised-learning-355dfbf6c519?source=rss-5aad7f3f4f6a------2)
-- [XGBoost: Taking Gradient Boosting to an Extreme Level](https://medium.com/@mohammedsaimquadri/xgboost-taking-gradient-boosting-to-an-extreme-level-7266c4b65235?source=rss-5aad7f3f4f6a------2)
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/msaquadri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msaquadri" height="50" width="50" /></a>
