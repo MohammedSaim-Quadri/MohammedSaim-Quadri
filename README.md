@@ -46,12 +46,12 @@
 ---------------------------------------------------------------
 ### ✍️ Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Forceful Generalization: Mastering Dropout Layers in Deep Networks](https://medium.com/@mohammedsaimquadri/forceful-generalization-mastering-dropout-layers-in-deep-networks-7b32fb5ccd35?source=rss-5aad7f3f4f6a------2)
 - [The Flip Side of the Coin: Exploding Gradients and Weight Initialization](https://medium.com/@mohammedsaimquadri/the-flip-side-of-the-coin-exploding-gradients-and-weight-initialization-42a57d441c53?source=rss-5aad7f3f4f6a------2)
 - [The Complete Guide to Deep Learning Optimizers: From Gradient Descent to Adam](https://medium.com/@mohammedsaimquadri/the-complete-guide-to-deep-learning-optimizers-from-gradient-descent-to-adam-4c34e983dd47?source=rss-5aad7f3f4f6a------2)
 - [The Loss Function Manual: Matching Your Architecture to the Right Math](https://medium.com/@mohammedsaimquadri/the-loss-function-manual-matching-your-architecture-to-the-right-math-74779983a7c3?source=rss-5aad7f3f4f6a------2)
 - [The Activation Function Cheat Sheet: Choosing the Right Gate for Your Neural Network](https://medium.com/@mohammedsaimquadri/the-activation-function-cheat-sheet-choosing-the-right-gate-for-your-neural-network-cf89d32ba4df?source=rss-5aad7f3f4f6a------2)
 - [The Vanishing Gradient Problem: Why Deep Networks Forget How to Learn](https://medium.com/@mohammedsaimquadri/the-vanishing-gradient-problem-why-deep-networks-forget-how-to-learn-6d047ca784e0?source=rss-5aad7f3f4f6a------2)
-- [The Math of Learning: Backpropagation and the Chain Rule](https://medium.com/@mohammedsaimquadri/the-math-of-learning-backpropagation-and-the-chain-rule-cb8345989315?source=rss-5aad7f3f4f6a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ----------------------------------------------------------
